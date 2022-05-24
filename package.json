@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
-
+    "dev": "nodemon sever.js"
   },
   "repository": {
     "type": "git",
@@ -30,7 +29,6 @@
     "hbs": "^4.2.0",
     "mongoose": "^6.3.4",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.16",
     "passport": "^0.6.0",
     "path": "^0.12.7",
     "serve-favicon": "^2.5.0"
