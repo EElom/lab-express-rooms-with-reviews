@@ -1,4 +1,4 @@
-const bcrypt = require("bcryptjs");
+const bcrypt = require("bcrypt");
 const User = require("../models/user.model");
 const updloader = require('../config/cloudinary.config');
 const SALT_FACTOR = 12;
